@@ -1,0 +1,11 @@
+.del-btn{
+    background-color:wheat;
+    color: rgb(100, 98, 96);
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.del-btn:hover{
+    background-color: rgb(155, 7, 7);
+    color: black;
+}
